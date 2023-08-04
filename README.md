@@ -1,11 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Dong%20Hyeon&fontSize=65)
+![header](https://capsule-render.vercel.app/api?type=wave&color=ffde8a&height=280&section=header&text=Dong%20Hyeon&fontSize=50)
 
-[![*'s github stats](https://github-readme-stats.vercel.app/api?username=Donghyeon5)](https://github.com/Donghyeon5)
-
+# 👋*반가워요 저는 김동현 입니다* 😄 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Donghyeon5)](https://github.com/Donghyeon5/github-readme-stats)
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Donghyeon5&layout=compact)](https://github.com/Donghyeon5/github-readme-stats)
+[![*'s github stats](https://github-readme-stats.vercel.app/api?username=Donghyeon5)](https://github.com/Donghyeon5)
 
 
 ![C](https://img.shields.io/badge/-C-123456?style=flat-square&logo=C&logoColor=black)
@@ -16,7 +14,7 @@
 ![MariaDB](https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white)
 
 
-# Hi there 👋
+
 ## Hi there 👋
 ### Hi there 👋
 #### Hi there 👋
